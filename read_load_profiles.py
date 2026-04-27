@@ -91,7 +91,7 @@ def create_figure(df):
             type="date",
         ),
         yaxis=dict(
-            title="Elektrische Leistung [kWh/h]",
+            title="Elektrische Leistung [kWh]",
             autorange=True,
         ),
         legend=dict(
